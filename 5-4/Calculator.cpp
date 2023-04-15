@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-#include "Calculator.h"
+#include "Calculator.h" // 해더 파일 선언
 #include "Adder.h"
 
 void Calculator::run() { // 클래스 함수 선언
